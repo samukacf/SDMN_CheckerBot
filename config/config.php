@@ -8,7 +8,7 @@
 | Change this to your Bot API Token
 | It can be obtained from https://telegram.dog/BotFather
 |
-*/a
+*/
 $config['botToken'] = "5686808148:AAFXXqNMcF7pleyifyksZ9qGGg0byjqs8xo";
 
 /*
@@ -52,10 +52,10 @@ $config['timeZone'] =  "Europe/Lisbon";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "ac-mzv9ked-shard-00-02.8qw9tz8.mongodb.net:27017";
-$config['db']['username'] =  "samukacf";
-$config['db']['password'] =  "Tuamae124";
-$config['db']['database'] =  "smk";
+$config['db']['hostname'] =  "sql106.epizy.com";
+$config['db']['username'] =  "epiz_33916280";
+$config['db']['password'] =  "g0AZ6Owq4Enll";
+$config['db']['database'] =  "epiz_33916280_smk";
 
 /*
 |--------------------------------------------------------------------------
