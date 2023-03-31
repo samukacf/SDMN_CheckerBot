@@ -8,7 +8,7 @@
 | Change this to your Bot API Token
 | It can be obtained from https://telegram.dog/BotFather
 |
-*/
+*/a
 $config['botToken'] = "5686808148:AAFXXqNMcF7pleyifyksZ9qGGg0byjqs8xo";
 
 /*
